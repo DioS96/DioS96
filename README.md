@@ -25,6 +25,7 @@ I am a Data Analyst focused on building end-to-end data projects that turn raw d
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E4C6D?style=for-the-badge)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -41,7 +42,7 @@ I am a Data Analyst focused on building end-to-end data projects that turn raw d
 
 ### 🏦 Financial Audit Analytics (JET)
 - Worked with financial datasets for enterprise clients
-- Built analytical models and reporting pipelines
+- Analyzed Audit trails and Journal Entry Transactions to identify possible fraud and incosistencies in accounts.
 
 ---
 
