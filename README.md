@@ -45,12 +45,6 @@ I am a Data Analyst focused on building end-to-end data projects that turn raw d
 
 ---
 
-## 📂 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DioS96&show_icons=true&theme=default)
-
----
-
 ## 📫 Contact Me
 
 - LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/diogenis-sapranidis-85701022a/)
