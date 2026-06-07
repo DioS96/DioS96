@@ -70,13 +70,6 @@ Alongside my professional experience, I build end-to-end analytics projects usin
 * Applied data validation and anomaly detection techniques
 * Supported risk assessment through data-driven analysis
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DioS96\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DioS96\&layout=compact)
 
 ---
 
